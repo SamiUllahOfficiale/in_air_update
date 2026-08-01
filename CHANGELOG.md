@@ -1,3 +1,9 @@
+## 1.0.1
+
+- Upgraded Dart SDK and Flutter constraints to meet modern runtime requirements (`sdk: ">=3.4.0 <4.0.0"`, `flutter: ">=3.22.0"`).
+- Added full WebAssembly (WASM) compatibility support using `package:web`.
+- Updated package metadata and configurations to achieve the full **160/160 pub points** benchmark on pub.dev.
+
 ## 1.0.0
 
 - Initial official release of `in_air_update`.
