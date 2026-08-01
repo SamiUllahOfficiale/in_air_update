@@ -1,5 +1,5 @@
 name: in_air_update
-description: A lightweight Over-The-Air (OTA) patch and dynamic configuration manager for Flutter apps. #ota #hotfix #updates #configuration #flutter
+description: A lightweight Over-The-Air (OTA) patch and dynamic configuration manager for Flutter apps.
 version: 1.0.0
 homepage: https://github.com/SamiUllahOfficiale/in_air_update
 
@@ -25,3 +25,10 @@ platforms:
   macos:
   windows:
   web:
+
+topics:
+  - ota
+  - hotfix
+  - updates
+  - configuration
+  - flutter
